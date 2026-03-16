@@ -1,0 +1,10 @@
+neo4j>=5.25.0
+pandas>=2.2.0
+matplotlib>=3.8.0
+gradio>=4.0.0
+python-dotenv>=1.0.0
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-openai>=0.1.0
+sentence-transformers>=2.2.2
+torch        # CPU version is fine; pip installs it automatically
